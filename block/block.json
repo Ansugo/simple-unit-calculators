@@ -1,0 +1,13 @@
+{
+  "apiVersion": 2,
+  "name": "suc/calculator",
+  "title": "Simple Unit Calculator",
+  "category": "widgets",
+  "icon": "calculator",
+  "attributes": {
+    "type": {
+      "type": "string",
+      "default": "deg2rad"
+    }
+  }
+}
